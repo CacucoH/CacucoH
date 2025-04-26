@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 ## 🎯 Some info about me
 - 🎓 Currently I am 2nd year Bachelor degree student at the [Innopolis University](https://innopolis.university/en/)
 - ✍️ Actively studying cybersecurity and participating CTF and hackatons
