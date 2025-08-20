@@ -1,9 +1,8 @@
 # Hi there 👋
 ## 🎯 Some info about me
-- 🎓 Currently I am 2nd year Bachelor degree student at the [Innopolis University](https://innopolis.university/en/)
+- 🎓 Currently I am 3rd year Bachelor degree student at the [Innopolis University](https://innopolis.university/en/)
 - ✍️ Actively studying cybersecurity and participating CTF and hackatons
-- 🔍 I am actively looking for the internship in the cybersecurity field
-
+- ⚡️ Pentester @ FearsOff
 <!--
 **CacucoH/CacucoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
