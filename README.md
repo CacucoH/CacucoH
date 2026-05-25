@@ -1,6 +1,6 @@
 # Hi there 👋
-## 🎯 Some info about me
-- 🎓 4rh year Bachelor degree student at the [Innopolis University](https://innopolis.university/en/)
+## `$ whoami`
+- 🎓 4th year Bachelor degree student at the [Innopolis University](https://innopolis.university/en/)
 - ✍️ Actively studying cybersecurity and participating CTF and hackatons
 - ⚡️ Pentester @ FearsOff
 - 🧊 Just chill guy
